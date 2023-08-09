@@ -10,23 +10,7 @@ Breast Cancer EDA and Classification Using Supervised Machine Learning Algorithm
 ▪ Feature Selection
 
 
-▪ Building Supervised Machine Learning Classifiers
-
-   ▪ Logistic Regression
-   
-   ▪ Random Forest
-   
-   ▪ Decision Tree
-   
-   ▪ K-nearest Neighbors (KNN)
-   
-   ▪ Support Vector Machine (SVM)
-   
-   ▪ Naive Bayes (NB)
-   
-   ▪ XGBoost
-   
-   ▪ Artificial Neural Network (ANN)
+▪ Building Supervised Machine Learning Classifiers: Logistic Regression, Random Forest, Decision Tree, K-nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes (NB), XGBoost, Artificial Neural Network (ANN)
 
 
 ▪ Making Predictions with Classifiers
@@ -59,22 +43,22 @@ The dataset contains 569 samples of malignant and benign tumor cells
 
 ▪ Columns 3-32 contain 30 real-value features that have been computed from digitized images of the cell nuclei:
 
-   ▪ radius (mean of distances from center to points on the perimeter)
+# radius (mean of distances from center to points on the perimeter)
    
-   ▪ texture (standard deviation of gray-scale values)
+# texture (standard deviation of gray-scale values)
    
-   ▪ perimeter
+# perimeter
    
-   ▪ area
+# area
    
-   ▪ smoothness (local variation in radius lengths)
+# smoothness (local variation in radius lengths)
    
-   ▪ compactness (perimeter^2 / area - 1.0)
+# compactness (perimeter^2 / area - 1.0)
    
-   ▪ concavity (severity of concave portions of the contour)
+# concavity (severity of concave portions of the contour)
    
-   ▪ concave points (number of concave portions of the contour)
+# concave points (number of concave portions of the contour)
    
-   ▪ symmetry
+# symmetry
    
-   ▪ fractal dimension (“coastline approximation” - 1)
+# fractal dimension (“coastline approximation” - 1)
