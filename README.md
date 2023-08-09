@@ -1,5 +1,5 @@
 # Breast_Cancer_EDA_Classification
-Breast Cancer EDA and Classification Using Supervised Machine Learning Algorithms
+Breast Cancer EDA and Classification Using Supervised Machine Learning Algorithms & Artificial Neural Network
 
 ⚡ Objective:
 
